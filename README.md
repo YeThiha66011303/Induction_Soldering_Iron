@@ -20,3 +20,6 @@ Powered by a 15V DC supply, the tip heats up almost instantly and can reach red-
 - Ferrite core output coil
 - 10kΩ and 470Ω resistors
 - 15V DC input
+
+## 🚧 Status
+Actively in development. Core hardware design is functional — ongoing improvements to efficiency and documentation.
