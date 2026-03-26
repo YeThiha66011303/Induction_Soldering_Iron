@@ -1,1 +1,4 @@
+## Schematic
 
+This folder contains the circuit schematic for the induction soldering iron.
+The design includes MOSFET-based alternating switching, fast switching diodes, a 200µH LC filter, and a ferrite core output coil driven by 15V DC.
